@@ -1,0 +1,20 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=20a3431b_002D12dd_002D43ab_002Da93d_002D86cd2ab4f0d7/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="OscarGanaPartidaDePoker" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.JuanGanaPartidaDePoker&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b09e0cf6_002D4c8d_002D4bf4_002D9a34_002Df1eb0807266a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="JuanGana" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.JuanGanaPartidaDePoker&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.OscarYMariaGanaPartidaDePoker&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.JuanPabloJoelPartidaDePoker&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.OscarManuelGanaPartidaDePoker&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.KathiaJoelYMAnuelGanaPartidaDePoker&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.Emplates5GanaPartidaDePoker&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.Solo1Ganador&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.GanadorCon1323123&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.JUarGanaCOn13Puntos&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::873DD10D-866C-4A5F-A8A0-CA1036ADDCAC::.NETCoreApp,Version=v5.0::TestProject1.Tests.GanadorConROyal50000puntos&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
